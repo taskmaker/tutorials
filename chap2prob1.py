@@ -1,4 +1,5 @@
 # Chapter 2 Problem 1- Total match points
+#see what changes take palce.
 match1 = 7
 match2 = 5
 match3 = 10
